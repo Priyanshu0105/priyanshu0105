@@ -33,7 +33,14 @@ Currently diving deeper into **React Drei** and backend development.
   <img src="https://github-readme-stats.vercel.app/api?username=priyanshu0105&show_icons=true&theme=radical&layout=compact&card_width=980" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu0105&layout=compact&theme=radical&card_width=980" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Priyanshu0105&theme=radical&card_width=980" alt="Priyanshu's Streak Stats" />
+
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Priyanshu0105&theme=radical" 
+    alt="Priyanshu's Streak Stats" 
+    style="width: 980px; max-width: 100%; height: auto;"
+  />
+</p>
+
 
 
 </p>
