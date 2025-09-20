@@ -29,12 +29,12 @@ Currently diving deeper into **React Drei** and backend development.
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Priyanshu0105&show_icons=true&theme=radical" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu0105&layout=compact&theme=radical" />
-</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=priyanshu0105&show_icons=true&theme=radical&card_width=400" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu0105&layout=compact&theme=radical&card_width=400" />
+</p>
 ---
 
 ## 📫 Contact Me
